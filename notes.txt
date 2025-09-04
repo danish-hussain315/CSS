@@ -1,0 +1,2 @@
+float properties was initally used to direction and now we use the flex and grid
+* float : left/right ;

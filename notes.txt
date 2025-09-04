@@ -48,4 +48,13 @@ text-transform : uppercase/lowercase/capitalize
 * Padding
 * Content
 
-Border and Margin Increases the size of div
+Border and Margin  and Padding Increases the size of div
+
+
+
+++++++++++++++++ Background Image ++++++++++++++++
+Background-image : url(Image_Destination)
+Background-repeat : no-repeat/repeat/repeat-x/repeat-y
+Background-position ; valueOne Valuee           like center top
+background-size: cover;               // cover is always used after the import of image
+background-attachment      fixed    // paralex effect

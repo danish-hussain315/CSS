@@ -39,3 +39,13 @@ text-transform : uppercase/lowercase/capitalize
 &nbsb  used in HTML to give single space
 1 word-spacing
 2 latter-spacing
+
+
+
+++++++++++++ Box Model +++++++++++++
+* Border
+* Margin
+* Padding
+* Content
+
+Border and Margin Increases the size of div

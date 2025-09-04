@@ -1,2 +1,41 @@
 float properties was initally used to direction and now we use the flex and grid
 * float : left/right ;
+
+
+
+++++++++++++++++++++++ part 2 ++++++++++++++++
+1 em = 16px  / denpend on the parent font-size
+text-align works on x-axis
+  text-align ; left/right/center/justify
+
+
+
+* font-weight : bold/ bolder ;       or use value when you use the google fonts
+* font-style: italic/oblique              // both work for italic
+
+
+*text-decoration  ; underline/overline/line-through/none
+
+
+
++++++++++++ INline Css++++++++++++++++
+
+
+
+++++++++++++ text transformation ++++++++++++++++
+text-transform : uppercase/lowercase/capitalize
+
+
+
+
+
+
+
+
+
+
+
+++++++++++++++ Space in Text +++++++++++++++
+&nbsb  used in HTML to give single space
+1 word-spacing
+2 latter-spacing

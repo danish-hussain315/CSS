@@ -84,3 +84,10 @@ takes all tags
   Margin ; 0px
   Padding : 0px
 }
+
+
+
++++++++++++++++++ Flex box +++++++++++
+* Flex box is property of parent 
+* default body margin is 8px
+* child cannot move to below line util parent apply another properties

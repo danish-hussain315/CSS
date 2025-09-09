@@ -1,0 +1,13 @@
+.flex{
+  width: 1320px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex-inner{
+  background-color: purple;
+  color: #ffffff;
+  width: 500px;
+  margin: 10px;
+  text-align: center;
+}

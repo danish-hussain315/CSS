@@ -91,3 +91,8 @@ takes all tags
 * Flex box is property of parent 
 * default body margin is 8px
 * child cannot move to below line util parent apply another properties
+* whenever you will give flex then it compress the inner item to Content-width
+
+
+flex-wrap  give permission to child to take their orignal width
+* flex-wrap: wrap;            // default no-wrap value

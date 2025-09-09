@@ -65,3 +65,22 @@ background-attachment      fixed    // paralex effect
 Shadow and can x or y and blur
 text-Shadow accepts 4 parmeterrs
 text-Shadow : x-Shadow y-Shadow blurness color
+we can give multiple text-Shadow properties to one item
+
+
+
+
+
++++++++++++++++++++++++++ BOx Shadow ++++++++++++
+* box Shadow have 5 parameters
+* box-shadow : x-offset y-offset blurness all-side-offset color;
+* When we want shadow inside the box then we have 6 parameters
+
+
+
+++++++ Universal Selector ++++++++++
+takes all tags 
+*{
+  Margin ; 0px
+  Padding : 0px
+}

@@ -58,3 +58,10 @@ Background-repeat : no-repeat/repeat/repeat-x/repeat-y
 Background-position ; valueOne Valuee           like center top
 background-size: cover;               // cover is always used after the import of image
 background-attachment      fixed    // paralex effect
+
+
+
+++++++++++++ CSS Shadow properties ++++++++++++++++
+Shadow and can x or y and blur
+text-Shadow accepts 4 parmeterrs
+text-Shadow : x-Shadow y-Shadow blurness color

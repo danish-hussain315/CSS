@@ -96,3 +96,27 @@ takes all tags
 
 flex-wrap  give permission to child to take their orignal width
 * flex-wrap: wrap;            // default no-wrap value
+
+
+flex-direction row / row-reverese / column / column-reverese        // default row
+
+
+
+//justify content 
+* when flex-direction is row then it works with the X-axis &&&&&&& align-item works with the y-axis
+* when direction is column then it works with the Y-axis &&&&&&& align-item works with the x-axis
+* Flex-direction value is consider as main axis while other is known as cross axis
+ Result 
+    justify content property is dependant on flex-direction
+    justify-content : flex-start / flex-end / center / space-between / space-around / space-evenly
+
+
+// align-item 
+* works with cross of flex-direction  or justify-content
+  Result
+  * align-item :  strech / flex-start / flex-end / center / baseline
+
+
+
+
+Note keep in mind conversion of justify-Content and align-item

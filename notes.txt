@@ -120,3 +120,28 @@ flex-direction row / row-reverese / column / column-reverese        // default r
 
 
 Note keep in mind conversion of justify-Content and align-item
+
+
+
+
+
+
+
+
+
+
+++++++++++++++ Selectors +++++++++++++
+* Element Selector
+  element_name {
+    properties
+  }
+
+* Universal Selector (*)
+  *{
+    properties
+  }
+* Desendant Selector (space)
+  div p{
+    ///// work on all <p> within div
+  }
+* Grouping Selector div, p, 

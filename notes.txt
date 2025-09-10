@@ -145,3 +145,13 @@ Note keep in mind conversion of justify-Content and align-item
     ///// work on all <p> within div
   }
 * Grouping Selector div, p, 
+
+
+
+
+
++++++++++++++ Google Fonts +++++++++++++++
+Google fonts
+font icon awesome cdn  
+ step 1 go to cndjs and copy link and paste it in link tags
+ step 2 go to the font awesome web to copy icon link and paste where you want
